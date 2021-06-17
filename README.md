@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h3 title="hehehe"> Hey 👋, I'm Wellington Vicencio!</h3>
 
-<a href="https:https://www.linkedin.com/in/wellington-vicencio-396655181/">
+<a href="https://www.linkedin.com/in/wellington-vicencio-396655181/">
   <img align="left" alt="Wellinton LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/wellingtonvicencencio.wellingtonvicencio">
