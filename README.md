@@ -23,9 +23,6 @@ Here are some ideas to get you started:
   <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br>
-<br>
-<img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet">
-<br />
 <br />
 
 Hi there, I'm **Wellington Vicencio **, a **Developer** 🚀 from São Paulo, Brazil.
@@ -51,5 +48,6 @@ Hi there, I'm **Wellington Vicencio **, a **Developer** 🚀 from São Paulo, Br
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 
 
