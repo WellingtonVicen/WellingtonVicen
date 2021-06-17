@@ -14,15 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 title="hehehe"> Hey 👋, I'm Zamran!</h3>
+<h3 title="hehehe"> Hey 👋, I'm Wellington Vicencio!</h3>
 
-<a href="https://www.linkedin.com/in/zamranxd/">
-  <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https:https://www.linkedin.com/in/wellington-vicencio-396655181/">
+  <img align="left" alt="Wellinton LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/zamranxd/">
-  <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/ZamranxD">
+<a href="https://www.facebook.com/wellingtonvicencencio.wellingtonvicencio">
   <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br>
@@ -31,7 +28,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-Hi there, I'm **Wellington Vicencio **, a **Software Engineering student** 🚀 from Lahore, Pakistan.
+Hi there, I'm **Wellington Vicencio **, a **Developer** 🚀 from São Paulo, Brazil.
  <!-- Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼.  -->
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
