@@ -33,11 +33,12 @@ Hi there, I'm **Wellington Vicencio **, a **Developer** 🚀 from São Paulo, Br
 **About Me!**
 
 - 👨🏽‍💻 I’m currently working as a Developer at Sorte Online.
-- 🤔 My interests are web development, software, mobile and games, video processing and developing some useful and cool stuff xD
+- 🤔 My interests are development software, mobile and games, development api's 
 - 💼 Graduated in Game Development.
+- 💼 Studying software engineering.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [wellington.vicencio@uni9.edu.br](mailto:wellington.vicencio@uni9.edu.br).
-- 📝 See my [Curriculum Vitae]([https://drive.google.com/file/d/1nqMZtpjejANUVMjHgtdFRwBCDwo97QPJ/view?usp=sharing](https://onedrive.live.com/edit.aspx?resid=BE3CB6AABDE60604!10468&cid=be3cb6aabde60604&CT=1672858252933&OR=ItemsView) to get more info.
+- 📝 See my [curriculum](https://onedrive.live.com/edit.aspx?resid=BE3CB6AABDE60604!10468&cid=be3cb6aabde60604&CT=1672858252933&OR=ItemsView) 
 
 
 **Languages and Tools:**  
